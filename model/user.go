@@ -2,5 +2,6 @@ package model
 
 type user struct {
 	name string
-	age int8
+	age int
+	bodyheight float64
 }
