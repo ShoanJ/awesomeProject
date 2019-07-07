@@ -6,4 +6,5 @@ type user struct {
 	bodyheight float64
 	tender bool
 	address string
+	wife user
 }
