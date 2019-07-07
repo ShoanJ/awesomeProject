@@ -5,4 +5,5 @@ type user struct {
 	age int
 	bodyheight float64
 	tender bool
+	address string
 }
