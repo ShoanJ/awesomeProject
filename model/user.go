@@ -7,5 +7,5 @@ type user struct {
 	tender bool
 	address string
 	wife user
-	useless int64
+	useless string 	
 }
